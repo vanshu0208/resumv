@@ -1,0 +1,22 @@
+
+.container{
+    
+background-image: url(be7805ef2512cd25bfcdec9e24ae8452.jpg);
+}
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+text-align: center;
+padding: 30px 19px;
+margin: 13px 11px;
+font-size: 22px;
+}
+.section{
+padding: 13px 12px;
+}
+.section-title{
+    padding: 13px 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font: bold;
+}
